@@ -94,7 +94,7 @@ Shows the standard communication workflow in which a message is signed, transmit
 1. Clone the repository:
 
    ```bash
-   git clone [YOUR_REPOSITORY_URL](https://github.com/mustafacan402/Hash--and-HMAC-Based-Message-Integrity-and-Authentication-System)
+   git clone https://github.com/mustafacan402/Hash--and-HMAC-Based-Message-Integrity-and-Authentication-System
    ```
 
 2. Navigate to the project directory:
