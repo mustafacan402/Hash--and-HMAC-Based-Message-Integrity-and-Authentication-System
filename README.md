@@ -94,13 +94,13 @@ Shows the standard communication workflow in which a message is signed, transmit
 1. Clone the repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone [YOUR_REPOSITORY_URL](https://github.com/mustafacan402/Hash--and-HMAC-Based-Message-Integrity-and-Authentication-System)
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd YOUR_REPOSITORY_NAME
+   cd https://github.com/mustafacan402/Hash--and-HMAC-Based-Message-Integrity-and-Authentication-System
    ```
 
 3. Run the application:
